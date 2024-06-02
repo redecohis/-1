@@ -1,0 +1,37 @@
+p {
+    color: red;
+    width: 500px;
+  }
+body {
+    color:black;
+    width: 1000px;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+    border: 5px solid rgb(12, 12, 12);
+    }    
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #7d009f;
+    text-shadow: 3px 3px 1px black;
+    }
+h2 {
+    margin: 0;
+    padding: 20px 0;
+    color: #e2f538;
+    }
+img {
+    display: block;
+    margin: 0 auto;
+    width: 600px;
+    height: 600px;
+    }     
+h4 {
+    color: rgb(252, 250, 250);
+    width: 500px; 
+    margin: 0 auto; /* 添加这个属性使得段落居中 */
+    text-align: center; /* 文字水平居中 */
+    font-weight: bold; /* 加粗 */
+    font-style: italic; /* 斜体 */
+    }
+    
